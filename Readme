@@ -1,0 +1,3 @@
+This is an analysis of crypto,stocks and bonds provided information by Alpaca and analyized by this code. 
+It uses Pandas with several dependancies downloaded at the beginning of the file.
+At the end you can make an educated take on where you want to invest.
